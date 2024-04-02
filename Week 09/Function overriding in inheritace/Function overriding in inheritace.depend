@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701786024 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 09\function overriding in inheritace\main.cpp
+	<iostream>
+	"Child.h"
+
+1701786050 e:\third semester data\object oriented programming in c++ 3rd sem\week 09\function overriding in inheritace\include\child.h
+	<iostream>
+	"Parent.h"
+
+1701785872 e:\third semester data\object oriented programming in c++ 3rd sem\week 09\function overriding in inheritace\include\parent.h
+	<iostream>
+

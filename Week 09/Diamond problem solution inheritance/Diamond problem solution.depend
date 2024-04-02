@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1701785232 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 09\diamond problem solution\main.cpp
+	<iostream>
+	"C.h"
+
+1701785436 e:\third semester data\object oriented programming in c++ 3rd sem\week 09\diamond problem solution\include\c.h
+	<iostream>
+	"P1.h"
+	"P2.h"
+
+1701785498 e:\third semester data\object oriented programming in c++ 3rd sem\week 09\diamond problem solution\include\p1.h
+	<iostream>
+	"P.h"
+
+1701785384 e:\third semester data\object oriented programming in c++ 3rd sem\week 09\diamond problem solution\include\p.h
+	<iostream>
+
+1701785511 e:\third semester data\object oriented programming in c++ 3rd sem\week 09\diamond problem solution\include\p2.h
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698156761 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 04\copy constructor\src\copy.cpp
+	<iostream>
+	"Copy.h"
+
+1698156761 e:\third semester data\object oriented programming in c++ 3rd sem\week 04\copy constructor\include\copy.h
+
+1698155031 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 04\copy constructor\main.cpp
+	<iostream>
+	"Copy.h"
+

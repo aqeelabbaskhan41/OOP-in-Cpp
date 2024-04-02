@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697551724 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 03\constructor & cpp file method\main.cpp
+	<iostream>
+	"ComplexNum.h"
+
+1697551161 e:\third semester data\object oriented programming in c++ 3rd sem\week 03\constructor & cpp file method\include\complexnum.h
+
+1697551418 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 03\constructor & cpp file method\src\complexnum.cpp
+	"ComplexNum.h"
+	"iostream"
+

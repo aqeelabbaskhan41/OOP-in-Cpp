@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1699451186 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\main.cpp
+	<iostream>
+	"Display.h"
+
+1699451652 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\src\name.cpp
+	"Name.h"
+
+1699451601 e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\include\name.h
+	<iostream>
+
+1699451940 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\src\age.cpp
+	"Age.h"
+
+1699451877 e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\include\age.h
+	<iostream>
+
+1699451975 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\src\display.cpp
+	"Display.h"
+
+1699451799 e:\third semester data\object oriented programming in c++ 3rd sem\week 05\object composition\include\display.h
+	<iostream>
+	"Name.h"
+	"Age.h"
+

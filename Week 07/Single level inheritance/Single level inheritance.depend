@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1699969400 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 07\single level inheritance\main.cpp
+	<iostream>
+	"employee.h"
+
+1699968246 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 07\single level inheritance\src\person.cpp
+	"person.h"
+
+1699969468 e:\third semester data\object oriented programming in c++ 3rd sem\week 07\single level inheritance\include\person.h
+	<iostream>
+
+1699969118 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 07\single level inheritance\src\employee.cpp
+	"employee.h"
+
+1699969533 e:\third semester data\object oriented programming in c++ 3rd sem\week 07\single level inheritance\include\employee.h
+	<person.h>
+	<iostream>
+

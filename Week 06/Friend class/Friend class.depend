@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1699364058 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 06\friend class\main.cpp
+	<iostream>
+	"Awais.h"
+	"Aqeel.h"
+
+1699364180 e:\third semester data\object oriented programming in c++ 3rd sem\week 06\friend class\include\awais.h
+	<iostream>
+
+1699364153 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 06\friend class\src\awais.cpp
+	"Awais.h"
+
+1699364262 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 06\friend class\src\aqeel.cpp
+	"Aqeel.h"
+
+1699363943 e:\third semester data\object oriented programming in c++ 3rd sem\week 06\friend class\include\aqeel.h
+	"Awais.h"
+

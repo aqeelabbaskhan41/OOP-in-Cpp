@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1700661726 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\main.cpp
+	"Child.h"
+	<iostream>
+
+1700661856 e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\include\child.h
+	<P2.h>
+	<P1.h>
+	<iostream>
+
+1700662010 e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\include\p2.h
+	<iostream>
+
+1700662010 e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\include\p1.h
+	<iostream>
+
+1700662068 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\src\p1.cpp
+	"P1.h"
+
+1700662068 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\src\p2.cpp
+	"P2.h"
+
+1700662010 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 08\multiple inheritance\src\child.cpp
+	"Child.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698761082 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 05\operator overloading\main.cpp
+	<iostream>
+	"OO.h"
+
+1698760664 e:\third semester data\object oriented programming in c++ 3rd sem\week 05\operator overloading\include\oo.h
+
+1698760966 source:e:\third semester data\object oriented programming in c++ 3rd sem\week 05\operator overloading\src\oo.cpp
+	<iostream>
+	"OO.h"
+

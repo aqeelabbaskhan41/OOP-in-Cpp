@@ -1,0 +1,2 @@
+In this week were revised some concepts of C++ like pointers and also we were listen a story about the history of oop.
+And also the goal of the week was to revise the C++ concepts through the Snake game which was our lab 01 task.
